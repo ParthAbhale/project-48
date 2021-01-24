@@ -13,7 +13,7 @@ var sGroundImg1,sGroundImg2,sGroundImg3,sGroundImg4;
 
 var obstacleGroup,coinsGroup,cloudGroup;
 
-var score = 4000;
+var score = 0;
 var coins = 0;
 var life = 3;
 
